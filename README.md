@@ -85,6 +85,8 @@ Watch the visual walkthroughs and explanations here:
 
 ## 📖 Book: Building a Small Language Model from Scratch
 
+![Building a Small Language Model from Scratch](./Book_image.jpeg)
+
 If you want a **complete, end-to-end deep dive**, the full journey is documented in my book:
 
 **📘 Building a Small Language Model from Scratch: A Practical Guide**
