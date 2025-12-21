@@ -52,6 +52,21 @@ Instead of jumping straight into massive models, we focus on **foundations first
 **The optimization that makes ChatGPT actually usable**  
 🔗 https://devopslearning.medium.com/day-10-21-days-of-building-a-small-language-model-kv-cache-3122773b9a22
 
+### Day 11 – Multi-Query Attention
+**Multi Query Attention Reducing Memory by Sharing Wisely**
+
+🔗 https://medium.com/p/5103652dd7c6
+
+### Day 12 – Group-Query Attention
+**Grouped Query Attention Finding the Middle Ground**
+
+🔗 https://www.linkedin.com/pulse/day-12-21-days-building-small-language-model-group-query-lakhera-r04ic
+
+### Day 13 – Positional Encodings
+**Positional Encodings Teaching Transformers About Order**
+
+🔗 https://devopslearning.medium.com/day-13-21-days-of-building-a-small-language-model-positional-encodings-39bce9496f55
+
 ---
 
 ## 📚 Additional Resources
