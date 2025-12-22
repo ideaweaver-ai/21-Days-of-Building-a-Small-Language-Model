@@ -67,6 +67,11 @@ Instead of jumping straight into massive models, we focus on **foundations first
 
 🔗 https://devopslearning.medium.com/day-13-21-days-of-building-a-small-language-model-positional-encodings-39bce9496f55
 
+### Day 14 – Rotary Positional Encodings
+**Rotary Positional Encodings**
+
+🔗 https://medium.com/@devopslearning/day-14-21-days-of-building-a-small-language-model-positional-encodings-db0ae45e0b8e
+
 ---
 
 ## 📚 Additional Resources
