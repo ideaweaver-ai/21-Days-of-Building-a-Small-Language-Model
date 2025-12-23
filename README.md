@@ -72,6 +72,12 @@ Instead of jumping straight into massive models, we focus on **foundations first
 
 🔗 https://medium.com/@devopslearning/day-14-21-days-of-building-a-small-language-model-positional-encodings-db0ae45e0b8e
 
+### Day 15 – Root Mean Square Normalization
+
+**RMSNorm**
+
+🔗 https://devopslearning.medium.com/day-15-21-days-of-building-a-small-language-model-rmsnorm-febd0364a0aa
+
 ---
 
 ## 📚 Additional Resources
