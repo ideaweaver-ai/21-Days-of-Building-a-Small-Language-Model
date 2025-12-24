@@ -78,6 +78,12 @@ Instead of jumping straight into massive models, we focus on **foundations first
 
 🔗 https://devopslearning.medium.com/day-15-21-days-of-building-a-small-language-model-rmsnorm-febd0364a0aa
 
+### Day 16 – Choosing the right optimizer for Your LLM
+
+**AdamW vs Muon**
+
+🔗 https://prashantlakhera.substack.com/p/day-16-21-days-of-building-a-small
+
 ---
 
 ## 📚 Additional Resources
