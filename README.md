@@ -84,6 +84,18 @@ Instead of jumping straight into massive models, we focus on **foundations first
 
 🔗 https://prashantlakhera.substack.com/p/day-16-21-days-of-building-a-small
 
+### Day 17 – Mixture of Experts
+
+**Mixture of Experts**
+
+🔗 http://medium.com/@devopslearning/welcome-to-day-17-of-21-days-of-building-a-small-language-model-8da10357dcf3
+
+### Day 18 – Quantization
+
+**Quantization**
+
+🔗 https://medium.com/@devopslearning/merry-christmas-to-all-of-you-b29b49c7d881
+
 ---
 
 ## 📚 Additional Resources
