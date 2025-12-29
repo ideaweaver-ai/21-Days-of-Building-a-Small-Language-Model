@@ -96,6 +96,26 @@ Instead of jumping straight into massive models, we focus on **foundations first
 
 🔗 https://medium.com/@devopslearning/merry-christmas-to-all-of-you-b29b49c7d881
 
+
+### Day 19 – Residual Connections
+
+**Residual Connections**
+
+🔗 https://devopslearning.medium.com/welcome-to-day-19-of-21-days-of-building-a-small-language-model-2b927a0f89e7
+
+### Day 20 – Activation Functions
+
+**Activation Functions**
+
+🔗 https://medium.com/@devopslearning/day-20-21-days-of-building-a-small-language-model-activation-functions-703049a7c283
+
+
+### Day 21 – Thank you
+
+**Thank you**
+
+🔗
+
 ---
 
 ## 📚 Additional Resources
